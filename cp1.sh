@@ -1,5 +1,5 @@
 #!/bin/bash
-#filename   : cp1.sh
+#filename   : cp1.sh   reviewed
 #description: the file "start.txt" to another the file "mine.txt". 
 #             If the string "start" is found inside "start.txt" 
 #             replace it for "XXXX" in the process. 
