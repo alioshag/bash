@@ -1,6 +1,6 @@
 #!/bin/bash
 #filename   : cp1.sh   reviewed 2
-#description: the file "start.txt" to another the file "mine.txt". 
+#description: copy the file "start.txt" to another the file "mine.txt". 
 #             If the string "start" is found inside "start.txt" 
 #             replace it for "XXXX" in the process. 
 #             if an input arg is provided, the source file name will 
